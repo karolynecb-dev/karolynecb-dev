@@ -1,16 +1,27 @@
-## Hi there 👋
+## karolynecb-dev
 
-<!--
-**karolynecb-dev/karolynecb-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, eu sou Karolyne Cunha
 
-Here are some ideas to get you started:
+🎓 Estudante de Sistemas de Informação (5º período)
+💻 Foco em Desenvolvimento Back-end e APIs REST
+🌱 Interesse em Inteligência Artificial e Sistemas Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias
+Java;
+Spring Boot;
+HTML;
+CSS;
+JavaScript;
+Python (em andamento);
+Git & GitHub
+
+📌 Projetos em destaque
+🔹 API REST – Sistema de Enquetes (Spring Boot)
+🔹 Sistema Comercial com POO em Java
+🔹 Plataforma Web sobre Consumo Sustentável
+🔹 Portfólio com Projetos Front-end
+
+📫 Contato
+
+📧 karolswift59@gmail.com
+🔗 LinkedIn (https://www.linkedin.com/in/karolyne-cunha-598836277/)
