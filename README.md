@@ -6,14 +6,11 @@
 💻 Foco em Desenvolvimento Back-end e APIs REST
 🌱 Interesse em Inteligência Artificial e Sistemas Web
 
-🚀 Tecnologias
-Java;
-Spring Boot;
-HTML;
-CSS;
-JavaScript;
-Python (em andamento);
-Git & GitHub
+🚀 Tecnologias:
+• Java | Spring Boot
+• HTML | CSS | JavaScript
+• Python (em aprendizado)
+• Git & GitHub
 
 📌 Projetos em destaque
 🔹 API REST – Sistema de Enquetes (Spring Boot)
